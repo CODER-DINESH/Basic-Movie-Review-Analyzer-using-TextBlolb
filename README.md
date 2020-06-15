@@ -8,7 +8,7 @@ python -m textblob.download_corpora
 Run the above command in command prompt or terminal
 
 <h1>Lets get into the logic.</h1>
-Textblob is a machine learning libray use for sentiment analyzes.
+Textblob is a machine learning libray used for sentiment analyzes.
 
 check this website for more infomation https://textblob.readthedocs.io/en/dev/
 
