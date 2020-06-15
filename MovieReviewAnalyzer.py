@@ -2,7 +2,7 @@
 from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer #The analyzer consists of Positive and Negative datasets
 
-review = open('C:/Users/Dinesh/Desktop/pro/endgame.txt', 'r') #Sample Movie reviews are stored in a separate file
+review = open('movieReviews.txt', 'r') #Sample Movie reviews are stored in a separate file
 review1 = review.read()
 review.close()
 
